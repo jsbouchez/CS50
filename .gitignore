@@ -1,0 +1,119 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==============================
+# Virtual Environments
+# ==============================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==============================
+# IDEs / Editors
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ==============================
+# OS Generated
+# ==============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==============================
+# Testing
+# ==============================
+.coverage
+.coverage.*
+.cache
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.pytest_cache/
+test-results.xml
+nosetests.xml
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints
+*.ipynb
+
+# ==============================
+# Logs and Databases
+# ==============================
+*.log
+*.sqlite3
+*.db
+
+# ==============================
+# Build and Packaging
+# ==============================
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.tgz
+*.zip
+*.war
+*.ear
+
+# ==============================
+# Configuration Files (Secrets)
+# ==============================
+.env
+.env.local
+.env.*.local
+secrets.json
+config.json
+*.key
+*.pem
+*.crt
+
+# ==============================
+# Misc
+# ==============================
+*.bak
+*.tmp
+*.temp
+*~
